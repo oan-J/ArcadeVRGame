@@ -2,7 +2,8 @@
 
 A virtual reality arcade featuring four classic mini-games with an interactive environment and reward system. Step into a nostalgic yet futuristic arcade space where players can enjoy multiple games while collecting virtual currency for future expansions.
 
-![Game Preview](https://drive.google.com/file/d/1y8CFUh65ug_eCG4yFSB9XyL0IU7YG87n/view?usp=sharing)
+
+[Watch our VR Arcade Game](https://drive.google.com/file/d/1y8CFUh65ug_eCG4yFSB9XyL0IU7YG87n/view?usp=sharing)
 
 ## 🎮 Featured Games
 
