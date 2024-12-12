@@ -55,14 +55,3 @@ A virtual reality arcade featuring four classic mini-games with an interactive e
 - Button A for shooting actions
 - Interactive coin collection
 
-## 💻 Technical Requirements
-[To be filled with VR system requirements]
-
-## 🤝 Contributing
-We welcome contributions and suggestions! Please feel free to submit a pull request or open an issue.
-
-## 📝 License
-[Add your license information here]
-
-## 📞 Contact
-[Add your contact information here]
